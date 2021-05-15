@@ -16,11 +16,11 @@ I completed my PhD in computer science at the [Institut National des Sciences Ap
 [Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (Oct.
 2014-Jul.2018). I was
 supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (director), [Clément Chatelain](http://pagesperso.litislab.fr/cchatelain/), and
-[Romain Hérault](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). During my PhD, I conducted research on the regularization of neural networks through representation learning with particular focus on learning scenarios where only few training samples are available. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
+[Romain Hérault](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). During my PhD, I conducted research on the regularization of neural networks through representation learning with particular focus on learning scenarios where only few training samples are available. <a href="javascript:toggleBibtex('hieulephd2018')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
-<div id="bib_sbelharbiphd2018" class="bibtex noshow">
+<div id="bib_hieulephd2018" class="bibtex noshow">
 <pre>
-@phdthesis{sbelharbiphd2018,
+@phdthesis{hieulephd2018,
   author = {Belharbi, S.},
   title = {Neural Networks Regularization Through Representation Learning},
   school = {Normandie Université, INSA Rouen Normandie, LITIS laboratory},
@@ -44,16 +44,16 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 
 ## News
 * Dec. 2019: New preprint: [**Convolutional STN for Weakly Supervised Object Localization and Beyond**](https://arxiv.org/abs/1912.01522). <a href="https://arxiv.org/abs/1912.01522">[ArXiv]</a>
-* Nov. 2019: New preprint: [**Deep Ordinal Classification with Inequality Constraints**](https://arxiv.org/abs/1911.10720). <a href="https://arxiv.org/abs/1911.10720">[ArXiv]</a> <a href="https://github.com/sbelharbi/Deep-Ordinal-Classification-with-Inequality-Constraints">[Code]</a>
+* Nov. 2019: New preprint: [**Deep Ordinal Classification with Inequality Constraints**](https://arxiv.org/abs/1911.10720). <a href="https://arxiv.org/abs/1911.10720">[ArXiv]</a> <a href="https://github.com/hieule/Deep-Ordinal-Classification-with-Inequality-Constraints">[Code]</a>
 * Sep. 2019: New preprint: [**Deep Weakly-supervised Learning Methods for Classification and Localization in Histology Images: a Survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a> <a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 * Sep. 06<sup>th</sup>, 2019: Presenting at weekly-seminars GCRC McGill, **Cancer identification and localization in histology images using deep learning**.
-* Aug. 2019: New preprint: [**Min-max Entropy for Weakly Supervised Pointwise Localization**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>
+* Aug. 2019: New preprint: [**Min-max Entropy for Weakly Supervised Pointwise Localization**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/hieule/wsol-min-max-entropy-interpretability">[Code]</a>
 * Jul. 25<sup>th</sup>, 2018: I joined [LIVIA lab](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) at [l'ÉTS](https://www.etsmtl.ca/) in collaboration with [McGill's GCRC lab](https://mcgillgcrc.com/).
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie.
 <a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
 * Volunteer at the upcoming **CAp conference** (Conférence sur l'Apprentissage automatique) June 20<sup>th</sup>-22<sup>th</sup> at Rouen, France ([**cap2018.litislab.fr**](http://cap2018.litislab.fr/)).
 * Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
-* Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a>
+* Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/hieule/structured-output-ae">[Code]</a>
 * Nov. 06<sup>th</sup>, 2017: End of my term as a member of the [**ADDED association**](http://association-added.fr/index-en/), after two years. But, I am still the webmaster for a while.
 * Oct. 05<sup>th</sup> & 06<sup>th</sup>, 2017: [**France is AI**](http://franceisai.com/conference/) conference, 2<sup>nd</sup> ed., Paris.
 * Sept. 25<sup>th</sup>, 2017: **Japanese-French workshop on optimization for machine learning** ([Riken](http://www.riken.jp/en/) & [LITIS](http://www.litislab.eu/)) at
